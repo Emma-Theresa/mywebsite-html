@@ -1,0 +1,25 @@
+#title{
+    width: 100%;
+  background-color :#FFBFBF;
+  height: 594px;
+}
+h1,h2{
+    font-family: 'EB Garamond', serif;
+font-family: 'PT Serif', serif;
+}
+h3,p,h4{
+    font-family: 'Abel', sans-serif;  
+    font-weight: lighter;
+}
+ .info .btn{
+    background :#F4EEEE;
+}
+.btn{
+    background: #EF9595;
+}
+.detail .btn{
+    background: #F4EEEE;
+}
+#footer{
+    background-color: #FFBFBF;
+}
